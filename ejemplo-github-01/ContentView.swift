@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  ejemplo-github-01
 //
-//  Created by JUAN CUENCA ORTIGOSA on 26/07/2020.
+//  Created by LA FACTORIA APPLE on 26/07/2020.
 //  Copyright © 2020 LA FACTORÍA APPLE. All rights reserved.
 //
 
